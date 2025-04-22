@@ -1,1 +1,1 @@
-# Food-resource-website
+# CHE-110-website
